@@ -1,9 +1,9 @@
-## PostWork.io Wiki
+# PostWork.io Wiki
 [gimmick:theme](slate)
 
-[Home](postwork.io)
+[Home](http://postwork.io)
 
-[Studio](studio.postwork.io)
+[Studio](http://studio.postwork.io)
 
 [About](index.md)
 
